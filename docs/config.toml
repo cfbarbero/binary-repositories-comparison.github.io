@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://cfbarbero.github.io/binary-repositories-comparison.github.io/public"
+baseurl = "https://cfbarbero.github.io/binary-repositories-comparison.github.io/public/"
 languageCode = "en-us"
 title = "Binary Repository Manager Feature Matrix"
 theme = "hugo-freelancer-theme"
